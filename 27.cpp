@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
 	string input;
-	string result;
 	char prev = '\n';
 	int count = 0;
 
